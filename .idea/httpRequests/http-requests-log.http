@@ -1,0 +1,78 @@
+POST http://localhost:4000/todos/add
+Accept: */*
+Cache-Control: no-cache
+
+{
+	"todo_description": "My 7 todo",
+	"todo_responsibility": "Sebastian",
+	"todo_priority": "Medium",
+	"todo_completed": false
+}
+
+<> 2019-05-11T074710.200.json
+
+###
+
+POST http://localhost:4000/todos/add
+Accept: */*
+Cache-Control: no-cache
+
+{
+	"todo_description": "My 7 todo",
+	"todo_responsibility": "Sebastian",
+	"todo_priority": "Medium",
+	"todo_completed": false
+}
+
+<> 2019-05-11T074650.200.json
+
+###
+
+POST http://localhost:4000/todos/add
+Accept: */*
+Cache-Control: no-cache
+
+{
+	"todo_description": "My 7 todo",
+	"todo_responsibility": "Sebastian",
+	"todo_priority": "Medium",
+	"todo_completed": false
+}
+
+<> 2019-05-11T064400.200.json
+
+###
+
+POST http://localhost:4000/todos/add
+Accept: */*
+Cache-Control: no-cache
+
+{
+	"todo_description": "My 7 todo",
+	"todo_responsibility": "Sebastian",
+	"todo_priority": "Medium",
+	"todo_completed": false
+}
+
+<> 2019-05-11T053800.200.json
+
+###
+
+POST http://localhost:4000/todos/add
+Accept: */*
+Cache-Control: no-cache
+
+< /Users/poboxbrian/DEVEL/MERN/BACKEND/test.json
+
+<> 2019-05-11T052652.200.json
+
+###
+
+GET http://localhost:4000/todos
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-11T052007.200.json
+
+###
+

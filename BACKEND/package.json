@@ -1,0 +1,21 @@
+{
+  "name": "BACKEND",
+  "version": "1.0.0",
+  "description": "Base for backend code",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.7"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  }
+}

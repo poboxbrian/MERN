@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71f5f5e2-3f33-4927-ba9b-27c4fd7c7c18" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/FRONTEND/handoffs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/FRONTEND/handoffs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FRONTEND/handoffs/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/FRONTEND/handoffs/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FRONTEND/handoffs/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/FRONTEND/handoffs/src/index.css" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BACKEND/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="794">
+              <caret line="74" column="23" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FRONTEND/handoffs/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FRONTEND/handoffs/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FRONTEND/handoffs/src/components/handoff-edit.component.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="136" column="11" selection-start-line="136" selection-start-column="11" selection-end-line="136" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FRONTEND/handoffs/src/components/handoff-list.component.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="90" column="11" selection-start-line="90" selection-start-column="11" selection-end-line="90" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>iResult</find>
+      <find>model</find>
+      <find>PORT</find>
+      <find>connection</find>
+      <find>axios</find>
+      <find>todoRoutes</find>
+      <find>todo</find>
+      <find>handoffs</find>
+      <find>handoff_</find>
+      <find>Todo</find>
+      <find>onChangeHandoffCompleted</find>
+      <find>HandoffsList</find>
+      <find>HandoffCreate</find>
+      <find>response</find>
+      <find>bind</find>
+      <find>props.</find>
+      <find>handoff</find>
+      <find>positions</find>
+      <find>Success</find>
+      <find>success</find>
+      <find>ToastContainer</find>
+      <find>onSuccess</find>
+      <find>completedCheckbox</find>
+      <find>onChangeToggle</find>
+      <find>onChangeDescription</find>
+      <find>onChangePriority</find>
+      <find>onChangeFromValue</find>
+      <find>error</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>aResult</replace>
+      <replace>db</replace>
+      <replace>handoffRoutes</replace>
+      <replace>handoff</replace>
+      <replace>Handoff</replace>
+      <replace>onChangeCompleted</replace>
+      <replace>HandoffEdit</replace>
+      <replace>res</replace>
+      <replace>success</replace>
+      <replace>onSuccess</replace>
+      <replace>onEdit</replace>
+      <replace>onChangeToggle</replace>
+      <replace>onChangeText</replace>
+      <replace>onChangeNameValue</replace>
+      <replace>message</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/FRONTEND/handoffs" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Todo/test.js" />
+        <option value="$PROJECT_DIR$/BACKEND/test.json" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" />
+        <option value="$PROJECT_DIR$/FRONTEND/mern-todo-app/src/components/create-todo.component.js" />
+        <option value="$PROJECT_DIR$/FRONTEND/mern-todo-app/src/components/todos-list.component.js" />
+        <option value="$PROJECT_DIR$/FRONTEND/mern-todo-app/src/index.css" />
+        <option value="$PROJECT_DIR$/FRONTEND/mern-todo-app/src/components/edit-todo.component.js" />
+        <option value="$PROJECT_DIR$/BACKEND/package.json" />
+        <option value="$PROJECT_DIR$/FRONTEND/handoffs/src/components/create-todo.component.js" />
+        <option value="$PROJECT_DIR$/FRONTEND/handoffs/src/components/todos-list.component.js" />
+        <option value="$PROJECT_DIR$/FRONTEND/handoffs/src/index.css" />
+        <option value="$PROJECT_DIR$/FRONTEND/handoffs/src/components/edit-todo.component.js" />
+        <option value="$PROJECT_DIR$/BACKEND/todo.model.js" />
+        <option value="$PROJECT_DIR$/BACKEND/handoff.model.js" />
+        <option value="$PROJECT_DIR$/FRONTEND/handoffs/src/components/handoff-create.component.js" />
+        <option value="$PROJECT_DIR$/FRONTEND/handoffs/src/index.js" />
+        <option value="$PROJECT_DIR$/FRONTEND/handoffs/src/App.js" />
+        <option value="$PROJECT_DIR$/BACKEND/server.js" />
+        <option value="$PROJECT_DIR$/FRONTEND/handoffs/src/components/handoff-list.component.js" />
+        <option value="$PROJECT_DIR$/FRONTEND/handoffs/src/components/handoff-edit.component.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1281" />
+    <option name="y" value="23" />
+    <option name="width" value="1209" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MERN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MERN" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MERN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MERN" type="462c0819:PsiDirectoryNode" />
+              <item name="BACKEND" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MERN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MERN" type="462c0819:PsiDirectoryNode" />
+              <item name="FRONTEND" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MERN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MERN" type="462c0819:PsiDirectoryNode" />
+              <item name="FRONTEND" type="462c0819:PsiDirectoryNode" />
+              <item name="handoffs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MERN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MERN" type="462c0819:PsiDirectoryNode" />
+              <item name="FRONTEND" type="462c0819:PsiDirectoryNode" />
+              <item name="handoffs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MERN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MERN" type="462c0819:PsiDirectoryNode" />
+              <item name="FRONTEND" type="462c0819:PsiDirectoryNode" />
+              <item name="handoffs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MERN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MERN" type="462c0819:PsiDirectoryNode" />
+              <item name="FRONTEND" type="462c0819:PsiDirectoryNode" />
+              <item name="handoffs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/FRONTEND/handoffs/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/FRONTEND/handoffs/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/FRONTEND/handoffs/src" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:4000/todos/add" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;&#9;&quot;todo_description&quot;: &quot;My 7 todo&quot;,&#10;&#9;&quot;todo_responsibility&quot;: &quot;Sebastian&quot;,&#10;&#9;&quot;todo_priority&quot;: &quot;Medium&quot;,&#10;&#9;&quot;todo_completed&quot;: false&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:4000" />
+          <option name="urlPath" value="/todos/add" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="$PROJECT_DIR$/BACKEND/test.json" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:4000" />
+          <option name="urlPath" value="/todos" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.server.js">
+    <configuration name="rest-api#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http">
+      <method v="2" />
+    </configuration>
+    <configuration name="server.js" type="NodeJSConfigurationType" path-to-js-file="bin/www" working-dir="$PROJECT_DIR$/BACKEND">
+      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSStartBrowserRunConfigurationExtension">
+        <browser url="http://localhost:4000/todos/add" />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="HTTP Request.rest-api#1" />
+      <item itemvalue="Node.js.server.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.rest-api#1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71f5f5e2-3f33-4927-ba9b-27c4fd7c7c18" name="Default Changelist" comment="" />
+      <created>1556904299472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556904299472</updated>
+      <workItem from="1556904300656" duration="38148000" />
+      <workItem from="1558100552119" duration="12964000" />
+      <workItem from="1558300739046" duration="7943000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="59055000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1281" y="23" width="1209" height="1057" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22053872" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29222798" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32953367" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="REST Client" order="9" weight="0.3284974" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.4649123" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32953367" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/FRONTEND/mern-todo-app" />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Todo/test.js" />
+    <entry file="file://$PROJECT_DIR$/BACKEND/test.json" />
+    <entry file="file://$PROJECT_DIR$/FRONTEND/mern-todo-app/src/components/create-todo.component.js" />
+    <entry file="file://$PROJECT_DIR$/FRONTEND/mern-todo-app/src/components/todos-list.component.js" />
+    <entry file="file://$PROJECT_DIR$/FRONTEND/mern-todo-app/src/components/edit-todo.component.js" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/rest-api.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FRONTEND/mern-todo-app/src/App.js" />
+    <entry file="file://$PROJECT_DIR$/FRONTEND/mern-todo-app/src/App.css" />
+    <entry file="file://$PROJECT_DIR$/FRONTEND/mern-todo-app/src/index.css" />
+    <entry file="file://$PROJECT_DIR$/FRONTEND/handoffs/src/serviceWorker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FRONTEND/handoffs/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FRONTEND/handoffs/src/App.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FRONTEND/handoffs/src/App.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FRONTEND/handoffs/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FRONTEND/handoffs/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BACKEND/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BACKEND/handoff.model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FRONTEND/handoffs/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FRONTEND/handoffs/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BACKEND/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="794">
+          <caret line="74" column="23" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FRONTEND/handoffs/src/components/handoff-list.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="90" column="11" selection-start-line="90" selection-start-column="11" selection-end-line="90" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FRONTEND/handoffs/src/components/handoff-edit.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="136" column="11" selection-start-line="136" selection-start-column="11" selection-end-line="136" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
